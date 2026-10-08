@@ -1,4 +1,1 @@
 - Fernando Yeray Medinaceli Andrade
-- David Abraham Apaza Nistaza
-- Jesus Renan Mamani Callisaya
-- Benjamin Mateo Magueño Cano
